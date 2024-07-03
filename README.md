@@ -4,7 +4,7 @@ A simple and customizable toast notification system for HTML.
 
 ## Demo
 
-![Toast Notification Demo](demo.gif)
+[![Toast Notification Demo](demo.gif)](https://s4.ezgif.com/tmp/ezgif-4-f43ae138e8.gif)
 
 ## Features
 
@@ -38,7 +38,7 @@ Include the following HTML and JavaScript code in your project.
   <div role="info" class="toast-container" toast-container toast-content="Wow so easy!" time="2000000"
     toast-position="top-right" type="error" light text="#e11d48"></div>
 
-  <script src="index.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/seraprogrammer/sera.js@main/html.js"></script>
 </body>
 
 </html>
