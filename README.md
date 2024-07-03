@@ -3,8 +3,8 @@
 A simple and customizable toast notification system for HTML.
 
 ## Demo
+![ezgif-4-f43ae138e8](https://github.com/seraprogrammer/sera.js/assets/73139993/1282fa75-9f47-42c6-a320-74c17ba68308)
 
-[![Toast Notification Demo](demo.gif)](https://s4.ezgif.com/tmp/ezgif-4-f43ae138e8.gif)
 
 ## Features
 
